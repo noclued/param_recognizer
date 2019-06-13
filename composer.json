@@ -1,0 +1,17 @@
+{
+  "name": "noclued/param_recognizer",
+  "type": "library",
+  "description": "Simple params recognizer for cli usage",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "noclue",
+      "email": "noclue@yitd.pl"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Noclue\\ParamRecognizer\\": "src/"
+    }
+  }
+}
